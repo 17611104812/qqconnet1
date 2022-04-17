@@ -1,6 +1,6 @@
 <?php
 
-namespace jie\qqconnect\api;
+namespace jie\qqconnect;
 /* PHP SDK
  * @version 2.0.0
  * @author connect@qq.com

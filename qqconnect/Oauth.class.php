@@ -4,7 +4,7 @@
  * @author connect@qq.com
  * @copyright © 2013, Tencent Corporation. All rights reserved.
  */
-namespace jie\qqconnect\api;
+namespace jie\qqconnect;
 
 
 class Oauth{
